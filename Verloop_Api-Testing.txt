@@ -1,0 +1,8 @@
+Done:	
+	Repository aanmaken 
+	NASA api (Eventueel ook spotify later)(Het kan zijn dat NASA te strikte regels heeft waardoor ik niet alles zou kunnen doen wat ik zou willen)
+	Documentatie aanmaken
+	Basis get request testing
+
+in-progress:
+	Api-Testing_Yarne-Valck: aanvullen
