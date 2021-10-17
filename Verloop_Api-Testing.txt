@@ -3,6 +3,8 @@ Done:
 	NASA api (Eventueel ook spotify later)(Het kan zijn dat NASA te strikte regels heeft waardoor ik niet alles zou kunnen doen wat ik zou willen)
 	Documentatie aanmaken
 	Basis get request testing
+	Playlist en liedjes toegevoegd aan mijn spotify adhv POST request (met testing)
 
 in-progress:
 	Api-Testing_Yarne-Valck: aanvullen
+
