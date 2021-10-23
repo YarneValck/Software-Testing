@@ -4,7 +4,13 @@ Done:
 	Documentatie aanmaken
 	Basis get request testing
 	Playlist en liedjes toegevoegd aan mijn spotify adhv POST request (met testing)
+	Playlist van naam veranderd adhv een put request
+	Liedjes uit de playlist gehaald adhv een DELETE request
 
 in-progress:
-	Api-Testing_Yarne-Valck: aanvullen
+	Api-Testing_Yarne-Valck: constant aanvullen
+	Logboek en Verloop documenten: constant aanvullen
+
+To-Do:
+	Tutorials over Test Automation bekijken en uitvoeren
 
