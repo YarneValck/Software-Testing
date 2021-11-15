@@ -3,7 +3,7 @@ Done:
 	NASA api (Eventueel ook spotify later)(Het kan zijn dat NASA te strikte regels heeft waardoor ik niet alles zou kunnen doen wat ik zou willen)
 	Documentatie aanmaken
 	Basis get request testing
-	Playlist en liedjes toegevoegd aan mijn spotify adhv POST request (met testing)
+	Playlist en allerlei liedjes toegevoegd aan mijn spotify/spotify playlist adhv POST requests (met testing)
 	Playlist van naam veranderd adhv een put request
 	Liedjes uit de playlist gehaald adhv een DELETE request
 
