@@ -11,6 +11,7 @@ in-progress:
 	Api-Testing_Yarne-Valck: constant aanvullen
 	Logboek en Verloop documenten: constant aanvullen
 	Tutorials over Test automation bekijken
+	Extra testing
 
 To-Do:
 	Tutorials over Test Automation uitvoeren
