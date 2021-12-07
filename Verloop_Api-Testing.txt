@@ -6,12 +6,13 @@ Done:
 	Playlist en allerlei liedjes toegevoegd aan mijn spotify/spotify playlist adhv POST requests (met testing)
 	Playlist van naam veranderd adhv een put request
 	Liedjes uit de playlist gehaald adhv een DELETE request
+	Extra testing
+	Tutorials over Test automation bekijken
+	Tutorials over Test Automation uitvoeren
 
 in-progress:
 	Api-Testing_Yarne-Valck: constant aanvullen
 	Logboek en Verloop documenten: constant aanvullen
-	Tutorials over Test automation bekijken
-	Extra testing
-
+	
 To-Do:
-	Tutorials over Test Automation uitvoeren
+	Nog wat extra informatie uit nieuwsgierigheid opzoeken en testen/uitvoeren in postman
