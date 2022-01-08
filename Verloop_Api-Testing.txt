@@ -9,10 +9,8 @@ Done:
 	Extra testing
 	Tutorials over Test automation bekijken
 	Tutorials over Test Automation uitvoeren
-
-in-progress:
 	Api-Testing_Yarne-Valck: constant aanvullen
 	Logboek en Verloop documenten: constant aanvullen
-	
-To-Do:
-	Nog wat extra informatie uit nieuwsgierigheid opzoeken en testen/uitvoeren in postman
+
+in-progress:
+	ppt maken tegen 10/1
